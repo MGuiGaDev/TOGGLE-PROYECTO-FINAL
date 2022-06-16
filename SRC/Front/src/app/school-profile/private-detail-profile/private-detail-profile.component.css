@@ -1,0 +1,36 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+.menu_school {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 10px;
+    margin-top: 20px;
+}
+.menu_school_button{
+    color: #001f3f;
+    transition: .3s ease;
+    border-radius: 3px;
+    width: 200px;
+    border: 2px solid #001f3f;
+    border-radius: 5px;
+    height: 60px;
+    background-color: transparent;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    font-weight: 500;
+}
+
+.menu_school_button:hover {
+    box-shadow: none;
+}
+#profile_private{
+    height: 100%;
+}
+.mat{
+    margin-top: 50px;
+}
+.mdl-data-table {
+    border: 1px solid #dadada;
+}
