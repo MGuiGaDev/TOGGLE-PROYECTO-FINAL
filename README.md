@@ -52,25 +52,25 @@ Toggle es una plataforma dedicada a mejorar y facilitar la comunicación entre l
 
 1. Clona el repositorio en tu máquina local:
 
-```(bash)
+```
 git clone https://github.com/MGuiGaDev/TOGGLE-PROYECTO-FINAL
 ```
 
 2. Navega al directorio del proyecto:
 
-```(bash)
+```
 cd toggle
 ```
 
 3. Instala las dependencias necesarias:
 
-```(bash)
+```
 npm install
 ```
 
 4. Compila y ejecuta la aplicación:
 
-```(bash)
+```
 ng serve
 ```
 
