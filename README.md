@@ -40,7 +40,6 @@ Toggle es una plataforma dedicada a mejorar y facilitar la comunicación entre l
 - Java 8
     Spring Boot
     JWT para autenticación
-    
 
 - Bases de datos:
     MySQL Server (Workbench)
@@ -54,7 +53,7 @@ Toggle es una plataforma dedicada a mejorar y facilitar la comunicación entre l
 1. Clona el repositorio en tu máquina local:
 
 ```(bash)
-git clone https://github.com/[usuario]/red-educa.git
+git clone https://github.com/MGuiGaDev/TOGGLE-PROYECTO-FINAL
 ```
 
 2. Navega al directorio del proyecto:
@@ -67,34 +66,25 @@ cd toggle
 
 ```(bash)
 npm install
-```(bash)
+```
 
 4. Compila y ejecuta la aplicación:
 
-sh
-Copy code
+```(bash)
 ng serve
+```
+
 Abre tu navegador y ve a http://localhost:4200 para acceder a la aplicación.
 
 ## Uso 📖
 
 Regístrate como usuario en la plataforma.
 Configura tu perfil añadiendo tus habilidades y especialización.
-Navega por los diferentes ciclos formativos y únete a aquellos que te interesen.
 Crea o participa en proyectos colaborativos.
 Comparte recursos y participa en foros de discusión.
 
-## Contribución 🤝
-Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será muy apreciada.
-
-Haz un Fork del proyecto.
-Crea tu rama de características (git checkout -b feature/AmazingFeature).
-Haz commit de tus cambios (git commit -m 'Add some AmazingFeature').
-Haz un Push a la rama (git push origin feature/AmazingFeature).
-Abre una solicitud de Pull Request.
-
 ## Contacto 📫
 
-Manuel Guillén Gallardo - mguigadev@gmail.com - @TwitterHandle
+Manuel Guillén Gallardo - mguigadev@gmail.com
 
-Enlace del proyecto: https://github.com/[usuario]/red-educa
+Enlace del proyecto: https://github.com/MGuiGaDev/TOGGLE-PROYECTO-FINAL
